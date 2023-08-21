@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto&display=swap');
+ 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+  margin: 0;
+  padding: 0%;
+ box-sizing: border-box;
+}
+li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+@media only screen and (max-width:625px) {
+  
+
+    .header-section{
+        width: 100%;
+        height: 1059px;  
+        background-image: url("../image/Herro\ Banner\ \(4\).jpg");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    
+    }
+    .title{
+      color: red;
+    }
+    .navbar-banner {
+      padding-left: 20px;
+    
+    }
+    .navbar-banner h1{
+    font-family: Inter;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+     color: #003459;
+    }
+    .product-next{
+      display: none;
+    }
+    .flexwear{
+      width: 100%;
+      height:700px ;
+      background-image: url("../image/Banner\ \(3\).png");
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+  
+  }
+  .content-wear{
+    display: none;
+  }
+.contents-wear{
+  display: block;
+}
+
+.about-photo{
+  display: none;
+}
+.about-content{
+  display: none;
+}
+
+    .responsive-about{
+        display: block;
+    }
+ 
+    .search-sub input{
+      width: 166px;
+    }
+  
+    
+    #lnext{
+      display: none;
+    }
+    #lprv{
+      display: none;
+    }
+  }
+
+ 
+      
+
+
+
+
+ 
+ 
+  
+  
+
+
+  
