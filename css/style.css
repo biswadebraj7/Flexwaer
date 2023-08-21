@@ -109,9 +109,11 @@ title img{
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0em;
-    text-align:justify;
+    text-align:left;
     color: #242B33;
-    margin-right: 80px;
+    margin-right: 200px;
+    padding-right: 50px;
+    
 
 
 
@@ -561,7 +563,7 @@ color: #FDFDFD;
 }
 .search-sub{
     max-width: 1015px;
-    width:80% ;
+    width:90% ;
     display: flex;
     justify-content: center;
     text-align: center;
@@ -574,8 +576,8 @@ color: #FDFDFD;
   
 }
 .search-sub input{
-    width: 166px;
-    width: 492px;
+    width: 162px;
+    width: 450px;
     height: 48px;
     align-items: center;
     border: 1px solid #BD2C2C;
